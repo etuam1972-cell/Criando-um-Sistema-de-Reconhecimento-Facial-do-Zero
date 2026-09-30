@@ -36,7 +36,7 @@ pip install -r requirements.txt
 
 Para rodar a detecção e exibir o resultado visual:
 
-.py
+Criando um Sistema de Reconhecimento Facial do Zero.py
 
 
 📊 Classes do Classificador
